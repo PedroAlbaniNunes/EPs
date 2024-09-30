@@ -1,5 +1,5 @@
 
-## Trabalho Prático de Programação II supervisionado pelo Prof. Dr. Hilário Seibel Júnior
+## Exercicios de Programação(EPs)
 
 ### Sobre o projeto:
 > Repositório criado para armazenar as EPs feitas pela matéria de Estrutura de Dados, ministrada pelo Docente Thiago Meireles Paixão, e que utilizada linguagem C/C++.
